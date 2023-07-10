@@ -1,0 +1,11 @@
+C:\Users\askke\source\repos\fastqr\fastqr\bin\Debug\fastqr.exe.config
+C:\Users\askke\source\repos\fastqr\fastqr\bin\Debug\fastqr.exe
+C:\Users\askke\source\repos\fastqr\fastqr\bin\Debug\fastqr.pdb
+C:\Users\askke\source\repos\fastqr\fastqr\obj\Debug\fastqr.csproj.AssemblyReference.cache
+C:\Users\askke\source\repos\fastqr\fastqr\obj\Debug\fastqr.csproj.SuggestedBindingRedirects.cache
+C:\Users\askke\source\repos\fastqr\fastqr\obj\Debug\fastqr.Form1.resources
+C:\Users\askke\source\repos\fastqr\fastqr\obj\Debug\fastqr.Properties.Resources.resources
+C:\Users\askke\source\repos\fastqr\fastqr\obj\Debug\fastqr.csproj.GenerateResource.cache
+C:\Users\askke\source\repos\fastqr\fastqr\obj\Debug\fastqr.csproj.CoreCompileInputs.cache
+C:\Users\askke\source\repos\fastqr\fastqr\obj\Debug\fastqr.exe
+C:\Users\askke\source\repos\fastqr\fastqr\obj\Debug\fastqr.pdb

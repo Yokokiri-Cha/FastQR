@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fastqr", "fastqr\fastqr.csproj", "{42BEAC3E-F04A-4DB8-B110-D33E910FC388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42BEAC3E-F04A-4DB8-B110-D33E910FC388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42BEAC3E-F04A-4DB8-B110-D33E910FC388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42BEAC3E-F04A-4DB8-B110-D33E910FC388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42BEAC3E-F04A-4DB8-B110-D33E910FC388}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2238B32-A28E-4D84-9A51-8AD9B7454F65}
+	EndGlobalSection
+EndGlobal
